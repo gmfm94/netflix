@@ -58,7 +58,7 @@ select#idioma {
     width: 60px;
     padding: 5px;
     border-radius: 3px;
-    background-color: rgba(240, 248, 255, 0.129);
+    background-color: rgba(240, 248, 255, 0);
     border: .8px solid white;
     color: white;
 }
